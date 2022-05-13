@@ -15,3 +15,30 @@ PROBLEM STATEMENT: The Department of Health & Family Welfare(Govt. of India) has
 10. How was the vaccination trend in the top 5 most vaccinated states (acc to number of doses administered)?
 11. Which are top 10 states with most number of individuals vaccinated? 
 12. Which are top 10 states with least number of individuals vaccinated?
+
+
+Insights from your analysis will be used by the government to formulate new policies and take data-driven decisions to mitigate the effects of covid . You must be able to back your insights using data and give a detailed explanation for your findings.
+
+You're given 2 CSV files containing entire covid infection and vaccination data starting from Jan 2020 uptill Aug 2021. The data contains thousands of records pertaining to day by day stats of spread and vaccinaton.
+
+In this project we use Python Pandas, Numpy, Matplotlib and Seaborn to analyze the covid infection and vaccination data all across the country, of all states to derive required insights and answer the above mentioned questions.
+
+
+Topics covered in this project are :
+
+1. Data Visualization
+2. Data Cleaning and Prepartion
+3. Data Manipulation and Transformation
+4. Data Exploration and Analysis
+5. Data Visualization
+6. Insight Derivation
+
+To perform the aforementioned activities on our data we will be taking the help of the following Python tools:
+
+1. Python Pandas
+2. Python Numpy
+3. Python Matplotlib
+4. Python Seaborn
+
+
+After all the analysis has been done(required graphs have been plotted & insights have been derived), we can create a dashbord to display all our plots and insights, which can then be submitted to the Prime Ministers Office. 
