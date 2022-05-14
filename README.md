@@ -26,7 +26,7 @@ In this project we use Python Pandas, Numpy, Matplotlib and Seaborn to analyze t
 
 Topics covered in this project are :
 
-1. Data Visualization
+1. Data Exctraction
 2. Data Cleaning and Prepartion
 3. Data Manipulation and Transformation
 4. Data Exploration and Analysis
